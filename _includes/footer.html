@@ -1,24 +1,29 @@
 <footer class="site-footer">
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <div class="social-media-list">
-          {% if site.email %}
-            <a href="mailto:{{ site.email }}">Email</a>
-          {% endif %}
+      <div class="footer-col">
+        <div class="footer-col-1">
+          <div class="social-media-list">
+            {% if site.email %}
+              <a href="mailto:{{ site.email }}">Email</a>
+            {% endif %}
 
-          {% if site.github_username %}
-            <a href="https://github.com/{{ site.github_username }}">Github</a>
-          {% endif %}
+            {% if site.github_username %}
+              <a href="https://github.com/{{ site.github_username }}">Github</a>
+            {% endif %}
 
-          {% if site.twitter_username %}
-            <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
-          {% endif %}
+            {% if site.twitter_username %}
+              <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+            {% endif %}
+          </div>
         </div>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <p>Theme made by <a href="http://masha.space/">Masha Safina</a>. Codes available on <a href="https://github.com/mashlo/captains-log">GitHub</a> 🖖</p>
+      <div class="footer-col">
+        <div class="footer-col-2">
+          <p>Theme made by <a href="http://masha.space/">Masha Safina</a>. Codes available on <a href="https://github.com/mashlo/captains-log">GitHub</a> 🖖</p>
+          <p>Customized by Luke Cottage: <a href="https://github.com/x21Kenobi/x21kenobi.github.io">codes available here</a></p>
+        </div>
       </div>
     </div>
   </div>

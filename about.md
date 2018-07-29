@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-### There is nothing here :eyes:
-... for now!
+### There is nothing here
+... for now! 👀

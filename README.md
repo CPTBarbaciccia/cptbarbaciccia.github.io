@@ -11,7 +11,7 @@ Finally, I made my blog (maybe!?). :suspect:
 ### TO DO
 - [ ] write 'about.md'
 - [ ] add a valid email to contact me
-- [ ] add favicon (animated if is possible)
+- [x] add favicon (animated if is possible)
 - [ ] adjust the 'linenos' in highlight
 - [ ] create a 404.html page
 - [ ] add search bar
