@@ -12,7 +12,7 @@ About this, I would premise/warn:
 
 - I would write my posts in english as possible but my english is bad (really, Google Translate help me a lot);
 - It's all an experiment, I would use this blog to write about my experiences and some misadventues;
-- I would use this to blog to improve my self (with english and IT skills)
+- I would use this to blog to improve my self (above all, english)
 - I'm a "randomer" guy (I'm a [Douglas Adams][Douglas_Adams]'s big fan) and I love all that (apparently) doesn't have sense.
 
 And, regarding this last point...
