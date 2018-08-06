@@ -12,7 +12,6 @@ However, joke aside, I'm an enthusiast, nerd, geek, and random guy that love eac
 ### About this blog
 
 I'm of opinion that if someone starts a blog they should have something to write or share something of quality.
-ù
 I'm not a "front-ender" or designer or similar, so it wasn't so easy for me to made this blog:
 if I had to start all over again, maybe I could do little; jekyll + github-pages helped me a lot.
 Just this should explain why I started it.
