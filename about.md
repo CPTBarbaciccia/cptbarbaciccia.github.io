@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
 ---
-`:(){ :|:& };:`
 
 Hey there,
 I'm Luke Cottage, an Italian guy who trying to writing a blog in english (perhaps failing at the start).
@@ -20,3 +19,28 @@ I want to improve my self and all my skills (Computer science, electronics, deve
 It seems pretentious, or well, it is and I feel a good ways is to write about my experiences in this blog.
 
 Also, this is a way to contribute to open source community that helped me to grow up my passion and my will to work in this field.
+
+### About me
+
+I don't want stay here to writing all my experiences (for that there is the CV) but I would like to write a summary describing me for my technical skills.
+I graduated as electronics technician and then I started to work in a company that deals with industrial automation.
+Next I began the university (which I never ended) and at the same time I worked as help desk, sysadmin, "developer", etc... until today!
+
+At the moment I am working as DevOps in a consulting firm, because (someone told me) I'm good at Software Engineering, sysOps and QA.
+So, as someone said, I'm a "maledetto devops" (in english: damn devops).
+Yup!
+
+I don't deny that sometimes I miss doing something electronic:
+I feel confident with all that using bits, like an AVR, or a Cortex-M0 or a FPGA, etc...
+And more the things works a low-level, more I love its!
+
+### :(){ :|:& };:
+
+And yes, it's a fork bomb but it's always a great inspiration for me.
+Maybe this describe me better than what I wrote before.
+For me it isn't only a fork bomb or a (very bad) joke to do to someone, no.
+
+For me is the best ever code was wrote until now.
+Perfectly indented, clear, visually beautiful!
+
+And every time I'm writing codes, I want is "perfectly indented, clear, visually beautiful" like that fork bomb!
