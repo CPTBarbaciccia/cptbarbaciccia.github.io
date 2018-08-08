@@ -31,7 +31,7 @@ Then, imagine you have to manage a [Xamarin][xamarin] project and the developmen
 </ItemGroup>
 {% endhighlight %}
 
-Also and as if this weren't enough, *imagine to have manage all project with [Jenkins][jenkins] and [Jenkins-pipeline][groovy-pipeline] feature as CI solution.*
+Also and as if this weren't enough, *imagine to have manage all projects with [Jenkins][jenkins] and [Jenkins-pipeline][groovy-pipeline] feature as CI solution.*
 The build will end up in error for sure, because during the runtime will not be possible download the packages.
 
 Are you starting to feel scared!? 👻

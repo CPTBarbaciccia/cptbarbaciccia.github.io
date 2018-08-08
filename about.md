@@ -44,3 +44,7 @@ For me is the best ever code was wrote until now.
 Perfectly indented, clear, visually beautiful!
 
 And every time I'm writing codes, I want is "perfectly indented, clear, visually beautiful" like that fork bomb!
+
+# In the end
+
+I would like to thank [Masha Safina](http://masha.space) ery much because I am using [Captain’s log](https://github.com/mashlo/captains-log) theme.
