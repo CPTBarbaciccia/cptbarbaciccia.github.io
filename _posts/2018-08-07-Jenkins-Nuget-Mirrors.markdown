@@ -36,15 +36,18 @@ The build will end up in error for sure, because during the runtime will not be 
 
 Are you starting to feel scared!? 👻
 
- 1. The first (**AND WRONG**) idea you should (**NOT**) have, it would be to manually download the nuget package, edit the configuration so to point locally (like a repository as may be `webdav`) and then put it "in that point".
- 2. The second (**AND MORE WRONG**) idea, it would be saying to development group of integrate the nuget package, or its source code, directly in the their project code.
+ 1. The first (**GOOD**) idea would be read the manuals and looking for an option to override that key with a mirror url: a side nuget sources, to date there aren't similar options!
+ 2. The second (**WRONG**) idea you should (**NOT**) have, it would be to manually download the nuget package, edit the configuration so to point locally (like a repository as may be `webdav`) and then put it "in that point".
+ 3. The second (**AND MORE WRONG**) idea, it would be saying to development group of integrate the nuget package, or its source code, directly in the their project code.
 
-Now, if you don't confident with Groovy, C#, etc, you should be scared!
+Now, if you aren't confident with Groovy, C#, etc, you should be scared!
 
 ### Solution
 
 As DevOps and considering that previously written,
-in my opinion, the cleanest way it would be create a "check" to verify and (if necessary) make a substitution in the `.target` configurations, just after `nuget restore` step.
+in my opinion, the cleanest way it would be create an "overrider": a function which do a "check" to verify and (if necessary) make a substitution of the url in the `.target` configurations, just after `nuget restore` step.
+
+In this way, you can also put this function in a shared-library or in any case remove it without conflicts.
 
 So, may be something like this:
 {% highlight groovy%}
@@ -65,7 +68,7 @@ stage('Nuget Restore') {
 }
 {% endhighlight %}
 
-Where `Checker` is a function like this:
+Where `Checker` is another function like this:
 {% highlight groovy%}
 def Checker(xmlfile, regex) {
     def matcher = xmlfile =~ regex

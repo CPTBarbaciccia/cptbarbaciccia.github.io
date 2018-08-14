@@ -47,4 +47,4 @@ And every time I'm writing codes, I want is "perfectly indented, clear, visually
 
 # In the end
 
-I would like to thank [Masha Safina](http://masha.space) ery much because I am using [Captain’s log](https://github.com/mashlo/captains-log) theme.
+I would like to thank [Masha Safina](http://masha.space) very much because I am using [Captain’s log](https://github.com/mashlo/captains-log) theme.
