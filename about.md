@@ -27,7 +27,7 @@ I graduated as electronics technician and then I started to work in a company th
 Next I began the university (which I never ended) and at the same time I worked as help desk, sysadmin, "developer", etc... until today!
 
 At the moment I am working as DevOps in a consulting firm, because (someone told me) I'm good at Software Engineering, sysOps and QA.
-So, as someone said, I'm a "maledetto devops" (in english: damn devops).
+So, as someone said, I'm a "maledetto devops" (in english: damned devops).
 Yup!
 
 I don't deny that sometimes I miss doing something electronic:

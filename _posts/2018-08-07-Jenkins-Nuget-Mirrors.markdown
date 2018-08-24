@@ -78,7 +78,7 @@ def Checker(xmlfile, regex) {
 
 ### Considerations
 
-Cases like these (unfortunately) are more commons that anyone believes, so it's even more mandatory have a plane and standard operating procedures to better manage these unexpected events.
+Cases like these (unfortunately) are more common that anyone believes, so it's even more mandatory have a plan and standard operating procedures to better manage these unexpected events.
 
 My advice is to have as many internet access as possible combined with control tools for malicious software.
 Because, hold all infrastructure closed and at the same time want to use packages that comes from the internet anyway, doesn't prevent external attacks and doesn't reduces its chances significantly.
