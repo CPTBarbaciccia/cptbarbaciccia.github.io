@@ -18,7 +18,7 @@ Imagine you are working with a closed infrastructure, which have a local network
 Then, imagine you have to manage a [Xamarin][xamarin] project and the development group decide to using a Xamarin-Nuget plugin that could has in the configurations something like this:
 
 `packages/Xamarin.something.version/build/framework/Xamarin.something.targets`
-{% highlight xml%}
+{% highlight apache%}
 <ItemGroup>
     <XamarinOtherComponent Include="$(_xxxx_componentfile)">
         <!-- OH, look here -->
@@ -26,7 +26,7 @@ Then, imagine you have to manage a [Xamarin][xamarin] project and the developmen
         <!-- OH, look here -->
         <ToFile>file.ext</ToFile>
         <Kind>Uncompressed</Kind>
-        <Md5>ThisIsMd5Hash</Md5>
+        <Md5>ThisIsMD5</Md5>
     </XamarinOtherComponent>
 </ItemGroup>
 {% endhighlight %}
