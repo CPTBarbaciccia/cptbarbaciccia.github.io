@@ -22,5 +22,5 @@ also it adds a script to check the boolean value (through `hudson.tasks.Shell()`
 If the parameter or script (or both) are already entered, the task will skip.
 
 
-[addParameterAndShellScriptToJobs]:./assets/scripts/groovy/addParameterAndShellScriptToJobs.groovy
-[look_over_here]:./assets/scripts/
+[addParameterAndShellScriptToJobs]:https://github.com/x21Kenobi/x21kenobi.github.io/blob/master/assets/scripts/groovy/addParameterAndShellScriptToJobs.groovy
+[look_over_here]:https://github.com/x21Kenobi/x21kenobi.github.io/blob/master/assets/scripts
